@@ -1,7 +1,9 @@
 ## Olá! Eu sou Francisco Cleinaldo
 
-- 🌱 Atualmente estou estudando Python, Teste de API com java utilizando o framework Gradle
-- 👨‍💻 Hoje estou trabalhando como suporte de Sistemas
+- 🌱 Atualmente estou estudando Python, HTML, Teste de API com java utilizando o framework Gradle
+- 💼 Hoje estou trabalhando como suporte de Sistemas
+- 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas 
+- 💻 Estou em busca de uma oportunidade de Estágio em Desenvolvimento Back-and
 
 
 <div align="center">
@@ -16,6 +18,7 @@
   <img align="center" alt="moraes-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img align="center" alt="moraes-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
   <img align="center" alt="moraes-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="moraes-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   
   </div>
   
