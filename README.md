@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou estudando Python, HTML, Teste de API com java utilizando o framework Gradle
 - 💼 Hoje estou trabalhando como suporte de Sistemas
 - 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas 
-- 💻 Estou em busca de uma oportunidade de Estágio em Desenvolvimento Back-and
+- 💻 Estou em busca de uma oportunidade de Estágio em Desenvolvimento Back-end
 
 <div>
 
