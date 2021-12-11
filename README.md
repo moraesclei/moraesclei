@@ -1,5 +1,16 @@
 ## Olá! me chamo Francisco Cleinaldo
 
+<p align="center">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"><img align="center" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" height="300px" style="max-width: 100%;"></a>
+</p>
+
+
+
+
+
+
+
+
 - 🌱 Atualmente estou estudando Python, HTML, Teste de API com java utilizando o framework Gradle
 - 💼 Hoje estou trabalhando como suporte de Sistemas
 - 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas 
@@ -53,4 +64,21 @@
     <a href="https://instagram.com/cleinaldomoraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:moraesclei@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/cleinaldo-moraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+  
+ </div>
+
+  ##
+  
+  ![Snake animation](https://github.com/moraesclei/moraesclei/blob/output/github-contribution-grid-snake.svg)
+
+
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
