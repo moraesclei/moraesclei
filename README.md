@@ -13,7 +13,8 @@
 
 - 🌱 Atualmente estou estudando Python, HTML,HTML5, Teste de API com java utilizando o framework Gradle
 - 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas 
-- 💻 Estou em busca de uma oportunidade de Estágio em Desenvolvimento Back-end
+- 💻 Estou atuando hoje como Analista de Teste de Software e estudando para obter uma oportunidade
+     como Desenvolvedor Jr.  
 
 <div>
 
