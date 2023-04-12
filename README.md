@@ -11,7 +11,7 @@
 
 
 
-- 🌱 Atualmente estou estudando Python, PHP, HTML5, Cypress
+- 🌱 Atualmente estou estudando Python, JavaScript, React
 - 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas 
 - 💻 Estou atuando hoje como Analista de Teste de Software e estudando para obter uma oportunidade
      como Desenvolvedor Jr.  
